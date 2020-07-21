@@ -49,7 +49,7 @@ Updates the attendees of the talk whose id is provided. Not fully functional!
 # What Else Needs to Be Done:
 Overall, the API needs more validation and sanitization of the data coming in and more constraints should be added to the existing schema.
 I would like to add models, routes, and a controller for the speakers too.
-The fuctionality to update attendees in talks needs to be fixed. I wasn't sure if the right way to go about this. I was indecisive regarding whether to combine or separate functionality in the case that an attendee did or did not already exist in the collection and didn't quite finish. 
+The fuctionality to update attendees in talks needs to be fixed. I wasn't sure what the right way to go about this was. I was indecisive regarding whether to combine or separate functionality in the case that an attendee did or did not already exist in the collection and didn't quite finish. 
 Look over the current nested Schema and re-evaluate if this is the right way to go about this, potentially need to look into using dependency injection for the type of relationship described.
 
 # Assumption
