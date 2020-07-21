@@ -2,7 +2,7 @@
 An API to manage talks, attendees, and speakers for a convention
 
 # Set Up
-Add your information for MongoDB in the .env file to connect to the database 
+Add your information for MongoDB in the .env file to connect to the your database 
 
 # Routes
 
